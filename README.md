@@ -9,13 +9,13 @@
   #### Effect when hovering the mouse over social network icons.</br></br></br>
  ![bateria](https://user-images.githubusercontent.com/38622239/205463815-6ec3129b-409a-45a3-b348-c1c8da31b602.png)
 
-# Technologies used
+## Technologies used
 
-## Front End
+### Front End
 
 HTML / CSS / JS
 
-# How to run this project
+## How to run this project
 
 ```bash
 git clone https://github.com/bonieck/bateria.git
