@@ -14,3 +14,13 @@
 ### Front End
 
 HTML / CSS / JS
+
+# How to run this project
+
+```bash
+git clone https://github.com/bonieck/bateria.git
+
+# Enter the "Battery" project folder
+
+Run the file "index.html"
+```
