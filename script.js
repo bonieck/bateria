@@ -41,10 +41,8 @@ document.querySelector('.composer button').addEventListener('click', ()=>{
         }
     }
 
-    var bleep = new Audio();
-                    bleep.src = "_sons/hover.ogg";
-                    ;
+var bleep = new Audio();
+     bleep.src = "_sons/hover.ogg"
 
-                    var tleep = new Audio();
-                    tleep.src = "_sons/hover1.ogg";
-                    ;
+const year = document.querySelector('#ano')
+ano.innerHTML = new Date().getFullYear()
