@@ -19,8 +19,8 @@ HTML / CSS / JS
 
 ```bash
 git clone https://github.com/bonieck/bateria.git
-
-# Enter the "Battery" project folder
-
-Run the file "index.html"
 ```
+
+#### Enter the "Battery" project folder
+
+#### Run the file "index.html"
