@@ -2,8 +2,8 @@
 
 ## About this project
 
-  ### This app plays drum sounds after the user presses a few keys and displays visual feedback as the key is pressed.</br></br>
-  ### It is also possible to create a musical composition and later play it.</br></br>
+  #### This app plays drum sounds after the user presses a few keys and displays visual feedback as the key is pressed.</br></br>
+  #### It is also possible to create a musical composition and later play it.</br></br>
   Styling using "Particles-js"</br></br>
   StarWars effect when hovering the mouse over the logo.</br></br>
   Effect when hovering the mouse over social network icons.</br></br></br>
