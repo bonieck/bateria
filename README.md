@@ -24,3 +24,9 @@ git clone https://github.com/bonieck/bateria.git
 #### Enter the "Battery" project folder
 
 #### Run the file "index.html"
+
+# Author
+
+Bonieck Douglas
+
+https://www.linkedin.com/in/bonieckdouglas/
